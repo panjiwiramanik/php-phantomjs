@@ -14,9 +14,9 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
-	"symfony/config": "~2.3|~3.0",
+        "symfony/config": "~2.3|~3.0",
         "symfony/filesystem": "~2.3|~3.0",
-        "symfony/yaml": "^6.0",
+        "symfony/yaml": "~2.3|~3.0",
         "jakoch/phantomjs-installer": "3.0.1"
     },
     "require-dev": {
